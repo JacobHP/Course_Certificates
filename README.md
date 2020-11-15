@@ -9,7 +9,7 @@ This list will grow in the coming months.
 
 **Course:** ***Neural Networks and Deep Learning***
 
-**Certificate:** coursera.org/verify/W2TKN548DKVD
+**Certificate:** <a href="url">coursera.org/verify/W2TKN548DKVD</a>
 
 **Offering:** Deeplearning.ai through Coursera
 
