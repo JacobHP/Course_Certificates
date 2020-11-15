@@ -7,7 +7,7 @@ Repo containing verification codes for course certificates.
 
 This list will grow in the coming months.
 
-**Course:** Neural Networks and Deep Learning
+**Course:** ***Neural Networks and Deep Learning***
 
 **Certificate:** coursera.org/verify/W2TKN548DKVD
 
@@ -20,14 +20,14 @@ This list will grow in the coming months.
 
 I have audited the following courses:
 
-**Course:** Introduction to Computational Thinking and Data Science
+**Course:** ***Introduction to Computational Thinking and Data Science***
 
 **Offering:** MITx through edx
 
 **Description:** Expanding further on the below course with a focus on optimisation problems, Monte Carlo methods, linear regression and visualisation. 
 
 
-**Course:** Introduction to Computer Science and Programming Using Python
+**Course:** ***Introduction to Computer Science and Programming Using Python***
 
 **Offering:** MITx through edx
 
