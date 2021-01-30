@@ -7,6 +7,14 @@ Repo containing verification codes for course certificates.
 
 This list will grow in the coming months.
 
+**Course:** ***Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimisation***
+
+Certificate: <a href='url'>coursera.org/verify/24CEAU7TGQ26</a>
+
+Offering: Deeplearning.ai through Coursera
+
+
+
 **Course:** ***Neural Networks and Deep Learning***
 
 **Certificate:** <a href="url">coursera.org/verify/W2TKN548DKVD</a>
